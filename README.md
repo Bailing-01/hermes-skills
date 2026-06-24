@@ -8,7 +8,7 @@
 
 | Skill | 类别 | 用途 | 案例 |
 |---|---|---|---|
-| [amazon-cerebro-keyword-analysis](./skills/productivity/amazon-cerebro-keyword-analysis/) | productivity | Helium10 Cerebro 反查关键词分析 | B0B8ZWHRL6 女式 loafers, B0DM6K8K12 颈霜 |
+| [amazon-cerebro-keyword-analysis](./skills/productivity/amazon-cerebro-keyword-analysis/) | productivity | Helium10 Cerebro 反查关键词分析 | B0B8ZWHRL6 女式 loafers, B0DM6K8K13 颈霜 |
 
 ## 安装方法
 
